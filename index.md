@@ -1,8 +1,7 @@
 ## Professional Cloud Architect
 
-You can use the [editor on GitHub](https://github.com/dewitt4/DeWitt-Gibson-Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! My name is DeWitt Gibson 
+I have a passion for all things related to distributed computing systems. Both Commercial and Open-Source Cloud-Native. 
 
 ### Markdown
 
